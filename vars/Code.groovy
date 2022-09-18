@@ -1,4 +1,4 @@
-def Download(repo)
+def Download($repo)
 {
     git "${repo}"
 }
